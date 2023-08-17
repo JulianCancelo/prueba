@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "LIMITE DE LANUS",
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Nombre": "Limite de Lanús" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } }
+]
+}
